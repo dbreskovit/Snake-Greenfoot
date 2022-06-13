@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Score
+comment1.params=prefix
+comment1.target=Score(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=score
+comment3.target=void\ add(int)
+comment4.params=
+comment4.target=void\ reload()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Music
+comment1.params=
+comment1.target=void\ musicStarted()
+comment2.params=
+comment2.target=void\ musicStopped()
+numComments=3

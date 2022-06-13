@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gameSnake()
+comment4.params=x\ y\ rotation
+comment4.target=void\ growSnake(int,\ int,\ int)
+comment5.params=
+comment5.target=void\ updateFoodLocation()
+numComments=6
