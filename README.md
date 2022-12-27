@@ -27,7 +27,7 @@
 
 ## 🧪 Technologies
 
-- <img src=".github/resources/icons/netbeans.svg" width="15"> | [Java](https://docs.oracle.com/en/java/)
+- <img src=".github/resources/icons/java.svg" width="15"> | [Java](https://docs.oracle.com/en/java/)
 - <img src=".github/resources/icons/greenfoot.svg" width="15"> | [Greenfoot](https://www.greenfoot.org/)
 
 <h3 align="center">
