@@ -42,7 +42,7 @@ Clone the project and access the folder.
 $ git clone https://github.com/dbreskovit/Snake-Greenfoot
 ```
 
-Use the <a href="https://www.greenfoot.org/"><kbd>Greenfoot</kbd></a> to run the game.
+Use the <a href="https://www.greenfoot.org/">Greenfoot</a> to run the game.
 
 ## 🦄 Authors
 
